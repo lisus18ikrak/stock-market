@@ -14,11 +14,11 @@
 
 ### Step 2:
 
-    Run the command: pip install yfinance/pip3 install yfinance
+    Run the command: https://github.com/lisus18ikrak/stock-market.git
 
 ### Step 3:
 
-    Go to the folder where stock_market.py is located
+   cd stock-market
 
 ### Step 4:
 
@@ -73,6 +73,6 @@ Date
 2021-03-09  232.880005  235.380005  231.669998  233.779999  33034000          0             0
 ```
 
-## The Script is Yours.. Happy Hacking 👨🏻‍💻
+## Happy Hacking 👨🏻‍💻
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
