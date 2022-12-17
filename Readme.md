@@ -18,7 +18,7 @@
 
 ### Step 3:
 
-   cd stock-market
+    cd stock-market
 
 ### Step 4:
 
